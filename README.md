@@ -17,6 +17,10 @@
   
   <h1>
     Welcome
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <p>
+    I am a junior at College of William and Mary. Currently, I am devoting myself to Economics 💰 and Computer Science 👨‍💻. I like to build interesting tools using the knowledge of computer science.
+
+In my downtime, I am a huge fan of Marvel and Star War. I also spend a lot of time listening to music. My favorite Chinese singer is Jay Chou and favorite American band is Earth, Wind & Fire.
+  </p>
 </div>
